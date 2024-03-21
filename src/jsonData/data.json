@@ -1,0 +1,9 @@
+{
+  "songs": {
+    "song1" : {
+      "url" : "/music/perfect-beauty-191271.mp3",
+      "thumbnail" : "https://random.imagecdn.app/50/50",
+      "artist" : "valay"
+    }
+  }
+}
